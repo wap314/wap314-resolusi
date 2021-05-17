@@ -2,3 +2,5 @@ WAP 314 Resolusi:
 - Konsisten publish tulisan terkait AI setiap 3 bulan.
 - Aktif di IAIS.
 - Melanjutkan dan menyelesaikan penelitian dengan topik SRL.
+- Mendalami teori dan aplikasi Bayesian inference.
+- Kolaborasi dgn lebih banyak expert.
