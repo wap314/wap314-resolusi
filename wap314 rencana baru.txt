@@ -2,6 +2,7 @@ WAP314 Rencana Baru:
 - Menerapkan "The Free Energy Principle" pada AI.
   * "The Free Energy Principle" vs RL
     ^ Incorporate Bayesian brain, optimal control and RL.
+    ^ Incorporate internal curiosity.
 - Menulis buku tentang sejarah AI.
   * From perceptron to self-supervised learning.
 - Aktif dalam mengadvokasi ide cybernetics, automation dan post-scarcity.
