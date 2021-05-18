@@ -1,2 +1,2 @@
 # wap314-resolusi
-Repository untuk menyimpan personal project kedepannya.
+Repository yg saya gunakan utk belajar dasar2 Git dan GitHUb.
