@@ -1,2 +1,2 @@
 # wap314-resolusi
-Repository yg saya gunakan utk belajar dasar2 Git dan GitHUb.
+Repository yang saya gunakan untuk belajar dasar-dasar Git dan GitHUb.
